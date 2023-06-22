@@ -28,7 +28,7 @@ My email address is: <shenminyu@swufe.edu.cn>
 **The following  provides experimental results of the proposed CNP algorithm for more line sets. The bus arrival rates and mean dwell times for each line in both sets were randomly generated using the Dirichlet distribution, following the same method used to generate line sets 0 and 1 in the paper.**
 
 ### Line set information
-| Set | Line No. | $\lambda_l$ (buses/hr) | $\mu_l$ (seconds) | Set | Line No. | $\lambda_l$ (buses/hr) | $\mu_l$ (seconds) |
+| Set | Line No. | $\lambda_l$ (buses/hr) | $\frac{1}{\mu_l}$ (seconds) | Set | Line No. | $\lambda_l$ (buses/hr) | $\frac{1}{\mu_l}$ (seconds) |
 |-----|-----|-----|-----|-----|-----|-----|-----|
 | 2 | 1 | 18.48 | 18.50 | 3 | 1 | 17.79 | 9.10 | 
 | 2 | 2 | 7.11 | 30.40 | 3 | 2 | 14.77 | 24.89 | 

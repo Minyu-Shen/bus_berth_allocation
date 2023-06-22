@@ -13,14 +13,14 @@ def sim_one_isolated_scenario(*args):
     ######## hyper-parameters ########
     max_tolerance_delay = paras.max_tolerance_delay  # seconds
     each_eval_interval = 3600 * 10
-    total_eval_num = 60  # 400
+    total_eval_num = 600
     epoch_num = each_eval_interval * total_eval_num  # the total number of epochs
 
-    minimum_eval_num = 20  # 150
+    minimum_eval_num = 150
     minimum_epoch_num = minimum_eval_num * each_eval_interval
     # if the last *std_num* of mean_seq is greater than threshold, return
-    std_num = 20  # 20
-    threshold = 0.05
+    std_num = 30
+    threshold = 0.01
 
     ######## simulation ########
     # duration = int(epoch_num / paras.sim_delta)
