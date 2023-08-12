@@ -1,6 +1,7 @@
 # bus_berth_allocation
 
-This repository contains the simulation model and the berth allocation algorithms used in a paper titled "Efficient Heuristic Methods for Berth Allocation at Multi-line, Multi-berth Curbside Bus Stops", which is currently being under review by "Transportation Research Part C".
+This repository contains the simulation model and the berth allocation algorithms used in a paper titled "Efficient Heuristic Methods for Berth Allocation at Multi-line, Multi-berth Curbside Bus Stops", which is published in "Transportation Research Part C" (https://www.sciencedirect.com/science/article/abs/pii/S0968090X23002589).
+
 
 # Installation
 
